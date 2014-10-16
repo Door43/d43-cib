@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cib:home|Door43 (cib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cib|d43-cib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cib/archive/master.zip|d43-cib.zip]]
+
+**Recent Changes**
+{{changes>ns = cib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cib|Ethnologue data]]
+
